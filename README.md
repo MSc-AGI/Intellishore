@@ -6,7 +6,7 @@ https://github.com/MSc-AGI/Intellishore/blob/main/LakeraGuard_Strategy_Work_Samp
 <img src="pictures/title_sample.jpg" alt="Market Position, Strategy, and Product Leadership" width="700">
 
 **Open the deck:**  
-[AI Security Product Strategy Case Study](https://gitfront.io/your-full-pdf-url.pdf)
+[AI Security Product Strategy Case Study]([https://gitfront.io/your-full-pdf-url.pdf](https://gitfront.io/r/MScAI/1AL5xfnPHYou/Intellishore/raw/LakeraGuard_Strategy_Work_Sample.pdf))
 
 ---
 
