@@ -1,4 +1,4 @@
-[`LakeraGuard_Strategy_Work_Sample.pdf`](TLakeraGuard_Strategy_Work_Sample.pdf)
+[`LakeraGuard_Strategy_Work_Sample.pdf`](LakeraGuard_Strategy_Work_Sample.pdf)
 
 https://github.com/MSc-AGI/Intellishore/blob/main/LakeraGuard_Strategy_Work_Sample.pdf
 # Work Sample for Intellishore
