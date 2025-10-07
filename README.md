@@ -1,3 +1,4 @@
+[`The_AI_Imperative_Swiss_Post.pdf`](The_AI_Imperative_Swiss_Post.pdf)
 # Work Sample for Intellishore
 
 <img src="pictures/title_sample.jpg" alt="Market Position, Strategy, and Product Leadership" width="700">
