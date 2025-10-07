@@ -1,6 +1,6 @@
 # Work Sample for Intellishore
 <img src="pictures/title_sample.jpg" alt="Market Position, Strategy, and Product Leadership" width="700">
-
+[Open the PDF](https://gitfront.io/your-full-pdf-url.pdf)
 # AI Security Product Strategy Case Study
 
 A practitioner grade strategy pack that analyses an AI security product and outlines a path from strong technology to enterprise scale adoption.
