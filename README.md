@@ -1,30 +1,25 @@
 # Work Sample for Intellishore
-<img src="pictures/title_sample.jpg" alt="Market Position, Strategy, and Product Leadership" width="700">
-[Open the PDF](https://gitfront.io/your-full-pdf-url.pdf)
-# AI Security Product Strategy Case Study
 
-A practitioner grade strategy pack that analyses an AI security product and outlines a path from strong technology to enterprise scale adoption.
+<img src="pictures/title_sample.jpg" alt="Market Position, Strategy, and Product Leadership" width="700">
 
-**Author:** Marcelo Caballero  
-**Purpose:** Proof of work for product strategy and AI consulting  
-**Sources:** Public information only  
-**File:** `LakeraGuard_SPM_Mkt_Strategy_031025_.pdf`
+**Open the deck:**  
+[AI Security Product Strategy Case Study](https://gitfront.io/your-full-pdf-url.pdf)
+
+---
 
 ## What this is
 
-A self contained case study that demonstrates how I structure a product strategy using only public data. It shows the way I frame markets, define value, and turn ideas into execution with clear ownership and KPIs.
+A practitioner ready case study that turns public data into a clear product strategy for an AI security offering. It shows how I frame markets, define value, and turn ideas into execution with owners and KPIs.
 
-## Who this is for
+## Why this matters to Intellishore
 
-Clients and hiring teams who want to see how I think and deliver.  
-Consultants and product leaders who need a concise reference for AI security strategy.
+It demonstrates the way I work with clients as a senior AI and ML consultant. From problem framing to a concrete plan with pilots, metrics, and governance that is ready for delivery in a cross functional team.
 
-## How to read
+## How to review in three minutes
 
-1. Open the PDF in this repository.  
-2. Start with the one page summary.  
-3. Skim the roadmap and the first pilots.  
-4. Note decisions, owners, and metrics needed to start.
+1. Open the PDF and read the one page summary.  
+2. Skim the three most material initiatives and the roadmap.  
+3. Note the first two pilots, required data, owners, and success measures.
 
 ## What is inside
 
@@ -32,27 +27,23 @@ Consultants and product leaders who need a concise reference for AI security str
 Size, drivers, buyer pains, and where value concentrates.
 
 **Product analysis**  
-Positioning, value proposition, and risks. Data sources and integration touchpoints.  
+Positioning, value proposition, risks, and key integration points.
 
 **Go to market and scale**  
-Routes to market, partner leverage, and enterprise readiness.  
+Routes to market, partner leverage, enterprise readiness.
 
 **Twelve to twenty four month roadmap**  
-Milestones, pilots, metrics, and success criteria.  
+Milestones, pilots, and success criteria.
 
 **Execution playbook**  
-Ninety day plan with owners, data needs, and measurable outcomes.
+Ninety day plan with data needs, owners, and measurable outcomes.
 
-## Why this is relevant
+## Source and format
 
-It is a live example of my approach to AI product strategy and enterprise adoption. It is built only from public sources to show how I work with limited inputs and create a plan that is actionable, testable, and measurable.
-
-## Disclaimer
-
-This is an independent case study. It uses public information only. It does not represent any non public view or endorsement.
+Built only from public information. Designed as a client style strategy pack.  
+File: `LakeraGuard_Strategy_Work_Sample.pdf`
 
 ## Contact
 
 Marcelo Caballero  
 msc_ai@icloud.com
-
