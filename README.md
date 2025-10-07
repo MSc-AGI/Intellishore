@@ -1,4 +1,5 @@
 # Work Sample for Intellishore
+<img src="pictures/title_sample.jpg" alt="Market Position, Strategy, and Product Leadership" width="700">
 
 # AI Security Product Strategy Case Study
 
