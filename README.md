@@ -9,15 +9,15 @@
 ---
 
 ## What this is
-A practitioner ready case study that turns public data into a clear product strategy for an AI security offering. It shows how I frame markets, define value, and turn ideas into execution with owners and KPIs.
+A practitioner-ready case study that shows a product strategy for an AI-native developer-security offering from public availabel information. It shows how I frame markets, define value, and turn ideas into execution with owners and KPIs.
 
 ## Why this matters to YOU
-It demonstrates how I work with clients as a senior AI and ML consultant. From problem framing to a concrete plan with pilots, metrics, and governance that is ready for delivery in a cross functional team.
+It demonstrates how I partner with product, engineering, and go-to-market teams in a senior AI/ML product-management role. From problem framing to a concrete plan with pilots, metrics, and governance ready for delivery in a cross-functional environment.
 
 ## How to review in three minutes
-1. Open the PDF and read the one page summary.  
-2. Skim the three most material initiatives and the roadmap.  
-3. Note the first two pilots, required data, owners, and success measures.
+1. Read the one-page summary of the concept and vision.
+2. Review the three strategic initiatives and corresponding roadmap milestones.
+3. Focus on the pilot designs, required data inputs, team ownership, and success metrics.
 
 ## What is inside
 **Market and problem framing**  
@@ -27,8 +27,10 @@ It demonstrates how I work with clients as a senior AI and ML consultant. From p
 **Execution playbook**
 
 ## Source and format
-Built only from public information. Designed as a client style strategy pack.  
+Built only from public information. Designed as a strategic product-management deliverable for developer-security and AI platforms.  
 File: `LakeraGuard_Strategy_Work_Sample.pdf`
+
+**This work sample leverages my MSc in AI with an AGI focused thesis and product management experience at scale.**
 
 ## Contact
 Marcelo Caballero  
