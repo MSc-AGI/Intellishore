@@ -1,4 +1,4 @@
-# Work Sample for a AI Security Product Strategy
+# Work Sample for an AI Security Product Strategy
 
 [Open the PDF](LakeraGuard_Strategy_Work_Sample.pdf) • 
 [Open on GitHub](https://github.com/MSc-AGI/Intellishore/blob/main/LakeraGuard_Strategy_Work_Sample.pdf) • 
@@ -11,7 +11,7 @@
 ## What this is
 A practitioner ready case study that turns public data into a clear product strategy for an AI security offering. It shows how I frame markets, define value, and turn ideas into execution with owners and KPIs.
 
-## Why this matters to Intellishore
+## Why this matters to YOU
 It demonstrates how I work with clients as a senior AI and ML consultant. From problem framing to a concrete plan with pilots, metrics, and governance that is ready for delivery in a cross functional team.
 
 ## How to review in three minutes
