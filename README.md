@@ -1,4 +1,4 @@
-# Work Sample for Intellishore
+# Work Sample for a AI Security Product Strategy
 
 [Open the PDF](LakeraGuard_Strategy_Work_Sample.pdf) • 
 [Open on GitHub](https://github.com/MSc-AGI/Intellishore/blob/main/LakeraGuard_Strategy_Work_Sample.pdf) • 
